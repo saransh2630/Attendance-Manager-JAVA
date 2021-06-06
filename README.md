@@ -1,5 +1,6 @@
 # Attendance-Manager-JAVA
 This is a object oriented programming implementation in java language using various  concepts like inheritance and abstraction. The program comprises of 4 classes when the main class is run it displays a menu for user to take further action (Attendance Report, Edit subjects, Mark Attendance or Exit).
+
 This project is of attendance manager which is managed by the student itself as the 
 student is able to know the percentage of their attendance of different subjects 
 respectively.
@@ -49,3 +50,5 @@ When Edit Subject Details is called subject ID is entered by the user so user ca
 the subject information.
 When the 3rd option is selected i.e. Mark Attendance the user first select the subject 
 then enter p/P for present and a/A for absent.
+
+**test.java is the main file for the project.**
